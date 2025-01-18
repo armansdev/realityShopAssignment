@@ -1,0 +1,14 @@
+{
+  "name": "realityshopassignment",
+  "version": "1.0.0",
+  "description": "This project is a Node.js application that provides a RESTful API to find the first unique character in a given string. The API validates the input and returns the first unique character along with its index and a timestamp.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Armash Firoz Ansari",
+  "license": "ISC"
+}
